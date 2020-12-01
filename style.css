@@ -1,0 +1,17 @@
+body{ 
+Background-color: #DAF7A6	}
+p{
+  Font-family:"futura";
+  font-style:"bold";
+  color:#FF5733	
+}
+
+.destacado{
+  font-family:"Arial";
+  font-style:italic;
+  font-size:15px
+  color:#581845
+}
+h1{font-family: "helvetica";
+  color: #900C3F
+}
